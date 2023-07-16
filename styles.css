@@ -32,16 +32,21 @@ body {
 
 .card .text {
     padding: 0px 16px;
+    margin: 24px 0px;
 }
 
 .card h1 {
     color: var(--dark-blue);
     font-size: 22px;
+    font-weight: 700;
+    margin: 0px 0px 16px 0px;
 }
 
 .card p {
     color: var(--grayish-blue);
     font-size: 15px;
+    font-weight: 400;
+    margin: 0px;
 }
 
 .attribution {
